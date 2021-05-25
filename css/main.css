@@ -61,7 +61,7 @@ nav .nav-right-section img:hover {
 }
 main {
     height: calc(100vh - 155px);
-    min-height: 350px;
+    min-height: 300px;
     display:flex;
     flex-direction: column;
     justify-content: center;
